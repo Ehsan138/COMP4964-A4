@@ -93,4 +93,4 @@ The CI/CD pipeline is built using AWS CodePipeline to automate the deployment of
 
 - **Static Website URL**: https://a4-comp4964.s3.us-west-2.amazonaws.com/website//index.html
 - **GitHub Repository**: https://github.com/Ehsan138/COMP4964-A4
-- **Link for the Demo**: 
+- **Link for the Demo**: https://youtu.be/zNYoMY2JNiE 
