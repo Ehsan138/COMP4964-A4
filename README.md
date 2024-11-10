@@ -16,6 +16,10 @@ The CI/CD pipeline is built using AWS CodePipeline to automate the deployment of
 - **Pipeline Trigger**: A webhook from GitHub automatically triggers the pipeline on every push to the `main` branch.
 - **Deploy Stage**: CodePipeline deploys the updated files to an S3 bucket, overwriting the existing content to reflect the latest changes on the website.
 
+### Pipeline Diagram
+
+![Pipeline Architecture Diagram](diagram.png)
+
 ---
 
 ## 2. Steps to Set Up and Configure the Pipeline
